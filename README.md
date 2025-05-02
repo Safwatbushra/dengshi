@@ -1,30 +1,23 @@
 ### Dengshi AI - A GeoGuessr-Inspired Dengue Prevention Web App**
 
 #### **Project Overview**
-Dengshi is a gamified web application inspired by GeoGuessr, designed to tackle dengue outbreaks in Bangladesh. Players explore locations, guess mosquito-prone areas, and contribute by capturing real-time images of potential dengue hotspots. These contributions are analyzed using a machine learning model trained on 107 images through Teachable Machine. The app also provides real-time preventive measures to users based on identified risks.
+Dengshi is a web application , designed to tackle dengue outbreaks in Bangladesh. People explore locations, guess mosquito-prone areas, and contribute by capturing real-time images of potential dengue hotspots. These contributions are analyzed using a machine learning model trained on 107 images through Teachable Machine. The app also provides real-time preventive measures to users based on identified risks.
 
 ---
 
 #### **Key Features**
-1. **GeoGuessr-Inspired Gameplay**:
-   - Players guess locations in Bangladesh prone to mosquitoes.
-   - Earn points and extra lives through accurate guesses and contributions.
 
-2. **Real-Time Image Contribution**:
+1. **Real-Time Image Contribution**:
    - Players can capture and upload images of damp areas or stagnant water when their lives run out.
    - Images are analyzed to predict dengue hotspots.
 
-3. **AI-Powered Analysis**:
+2. **AI-Powered Analysis**:
    - Uses a Teachable Machine pre-trained model to classify images for dengue-prone elements.
    - Identifies areas with stagnant water, damp walls, and other mosquito-breeding indicators.
 
-4. **Dengue Prevention Measures**:
+3. **Dengue Prevention Measures**:
    - Provides real-time preventive tips tailored to identified risks in a user’s area.
    - Aggregates data for city corporations to assist in proactive measures.
-
-5. **Leaderboard and Rewards**:
-   - Gamified leaderboard to encourage contributions.
-   - Players earn badges and extra lives for consistent participation.
 
 ---
 
@@ -114,9 +107,9 @@ Follow these steps to set up and run the project locally:
 ---
 
 #### **How It Works**
-1. **Gameplay**:
-   - Players guess mosquito-prone locations and earn points for correct answers.
-   - When lives run out, they are prompted to capture and upload images of potential hotspots.
+1. **camera**:
+   - People guess mosquito-prone locations for correct answers.
+
 
 2. **Image Analysis**:
    - Uploaded images are processed using the Teachable Machine model to detect elements like stagnant water or damp areas.
