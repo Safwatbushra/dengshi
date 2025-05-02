@@ -1,4 +1,4 @@
-### Dengshi AI - A GeoGuessr-Inspired Dengue Prevention Web App**
+### Dengshi AI - A Dengue Prediction Web App**
 
 #### **Project Overview**
 Dengshi is a web application , designed to tackle dengue outbreaks in Bangladesh. People explore locations, guess mosquito-prone areas, and contribute by capturing real-time images of potential dengue hotspots. These contributions are analyzed using a machine learning model trained on 107 images through Teachable Machine. The app also provides real-time preventive measures to users based on identified risks.
